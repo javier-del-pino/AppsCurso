@@ -1,0 +1,15 @@
+{
+    "jscompiler": {
+        "outputs": [
+            {
+                "inputs": [
+                    "www/js/index.js"
+                ],
+                "output": "www/js/index.min.js",
+                "generateMap": true,
+                "mangle": true,
+                "isolate": false
+            }
+        ]
+    }
+}
